@@ -1,10 +1,4 @@
-<p align=center>
-
-
-  <p align=center>
-    Team MULTITAN-GML : findings
-  </p>
-</p>
+# Team MULTITAN-GML : findings
 
 
 ## Table of contents
