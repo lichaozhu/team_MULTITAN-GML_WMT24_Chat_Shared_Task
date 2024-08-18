@@ -16,7 +16,7 @@ Team members
 - Behnoosh Namdar, CLILLAC-ARP, Université Paris Cité, <behnooshnamdar@gmail.com>
 - Nicolas Ballier, CLILLAC-ARP, Université Paris Cité, <nicolas.ballier@u-paris.fr>
 
-## Submissions
+## [Submissions](./Submissions_MULTITAN_GML/en_fr)
 
 The first two systems are of *transformer* architecture. 
 
