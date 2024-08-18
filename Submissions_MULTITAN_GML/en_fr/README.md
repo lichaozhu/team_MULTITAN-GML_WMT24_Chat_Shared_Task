@@ -20,7 +20,7 @@
 Team members
 
 - Lichao Zhu, CLILLAC-ARP, Université Paris Cité, <lichao.zhu@u-paris.fr>
-- Maria Zimmina-Poirot, CLILLAC-ARP, Université Paris Cité, <maria.zimina-poirot@u-paris.fr>
+- Maria Zimina-Poirot, CLILLAC-ARP, Université Paris Cité, <maria.zimina-poirot@u-paris.fr>
 - Behnoosh Namdar, CLILLAC-ARP, Université Paris Cité, <behnooshnamdar@gmail.com>
 - Nicolas Ballier, CLILLAC-ARP, Université Paris Cité, <nicolas.ballier@u-paris.fr>
 
