@@ -15,6 +15,7 @@ Team members
 - Maria Zimina-Poirot, CLILLAC-ARP, Université Paris Cité, <maria.zimina-poirot@u-paris.fr>
 - Behnoosh Namdar, CLILLAC-ARP, Université Paris Cité, <behnooshnamdar@gmail.com>
 - Nicolas Ballier, CLILLAC-ARP, Université Paris Cité, <nicolas.ballier@u-paris.fr>
+- Jean-Baptiste Yunès, IRIF, Université Paris Cité, <Jean-Baptiste.Yunes@u-paris.fr>
 
 ## [Submissions](./Submissions_MULTITAN_GML/en_fr)
 
