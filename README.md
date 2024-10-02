@@ -3,13 +3,11 @@
 
 ## Table of contents
 
-- [Participants](#participants)
+- [Team members](#members)
 - [Submissions](#submissions)
 - [Metrics](#metrics)
 
-## Participants
-
-Team members
+## Team members
 
 - Lichao Zhu, CLILLAC-ARP, Université Paris Cité, <lichao.zhu@u-paris.fr>
 - Maria Zimina-Poirot, CLILLAC-ARP, Université Paris Cité, <maria.zimina-poirot@u-paris.fr>
