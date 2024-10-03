@@ -1,4 +1,4 @@
-# Team MULTITAN-GML : findings
+# Team MULTITAN-GML: findings
 
 
 ## Table of contents
