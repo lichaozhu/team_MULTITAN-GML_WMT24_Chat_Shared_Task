@@ -1,8 +1,6 @@
 # Team MULTITAN-GML: findings
 
 
-## Table of contents
-
 - [Team members](#members)
 - [Submissions](#submissions)
 - [Metrics](#metrics)
